@@ -1,0 +1,7 @@
+Percobaan t05
+Memindahkan letak loopingan for
+Menambahkan new line.
+menambahakan batas kamus  
+merubah letak increment index i
+merubah bentuk specifier untuk scanf artikata
+menambahkan nama

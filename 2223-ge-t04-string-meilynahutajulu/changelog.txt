@@ -1,0 +1,6 @@
+Percobaan T04
+Merubah bentuk fungsi untuk menyimpan character sementara yang akan di print
+merubah bentuk program untuk membaca command line arguments sebagai integer
+mengganti program untuk membaca input string
+mengganti program untuk membaca input string menggunakan fgets
+salah penulisan menjadi strlen[]

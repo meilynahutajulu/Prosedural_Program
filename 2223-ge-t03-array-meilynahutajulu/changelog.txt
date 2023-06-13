@@ -1,0 +1,5 @@
+Pengumpulan T03 
+
+Pengumpulan Ulang T03 dikarenakan tidak adanya file MakeFile. 
+
+mengganti perbandingan yang salah.

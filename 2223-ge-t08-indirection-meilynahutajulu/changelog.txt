@@ -1,0 +1,5 @@
+Percobaan pertama.
+perubahan parameter pada fungsi
+perubahan indeks.
+memperbaiki eror
+menhilangkan perbandingan pada calculate_gpa

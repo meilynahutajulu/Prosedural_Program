@@ -1,0 +1,3 @@
+membuat fungsi 
+menambahkan fungsi capacity.
+membuat fungsi lain
